@@ -1,0 +1,3 @@
+nodes default {
+  include appuser
+}
