@@ -1,3 +1,3 @@
-nodes default {
+node default {
   include appuser
 }
